@@ -3,10 +3,10 @@ Group 3
 
 1.Availability for meeting expectations: We will decide on a weekly basis. For next week we expect to meet on Monday at 2pm. 
 2.Response time to communication expectations
-3.Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
-4.Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+3.Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.): A task is done when the task is commited and merged to the main github project. 
+4.Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board): In Scrum we do daily 15 minutes stand ups and update the task board as we progress with the task. 
 5.Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
-  a.if you adopt such a policy during the initial meeting, put it here
+  a.if you adopt such a policy during the initial meeting, put it here: Comments are expected to be explicit and informative for the rest of the group. That involves good method definition for instance.
 6.Procedure for handling a member who is not meeting expectations
   a.must include at least 3 actions before involving the instructor
 7.Signatures: each member must sign their name by typing their name at the bottom of the document.
